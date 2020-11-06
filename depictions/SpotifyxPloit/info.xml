@@ -1,0 +1,21 @@
+<package>
+	<id>com.c3fff0e.spotifyxploitpremium</id>
+	<name>Spotify xPloit: Premium</name>
+	<version>1.0k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>5.0.1</miniOS>
+		</firmware>
+	</compatibility>
+    <shortDescription>Premium Features for Spotify</shortDescription>
+	<descriptionlist>
+		<description>Premium Features for Spotify [Works on v2.0.0 - v2.5.0] (No Configuration</description>
+	</descriptionlist>
+	<links>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://www.twitter.com/jlbislas</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</links>
+</package>
