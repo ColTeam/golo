@@ -1,8 +1,8 @@
-Origin: The Laca Repo
+Origin: Laca de Mexico Repo
 Label: laca.ml REPO
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: The Cydia repo of Laca
+Description: The Cydia repo of Laca de Mexico
